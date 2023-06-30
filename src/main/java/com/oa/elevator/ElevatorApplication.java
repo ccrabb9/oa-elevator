@@ -2,6 +2,10 @@ package com.oa.elevator;
 
 import java.util.Arrays;
 
+/**
+ * ElevatorApplication: An application which takes in a list of floors to visit and calculates
+ * travel time for an elevator to visit those floors.
+ */
 public class ElevatorApplication {
 
     private final Elevator elevator;
